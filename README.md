@@ -1,0 +1,4 @@
+- New Material 3 settings with search
+- Study stopwatch with saved sessions
+- Your own AI key, stored encrypted on your phone
+- Bug fixes and speed improvements
