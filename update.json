@@ -1,0 +1,11 @@
+{
+  "Visibility": "false",
+  "Title": "New Update",
+  "Description": "- Improvements and bug fixes",
+  "MainTextButton": "Update",
+  "LogoLink": "",
+  "Cancelable": "true",
+  "CancelButtonText": "Later",
+  "DownloadLink": "https://github.com/Abidd11/jkbose-helper-focus-releases/releases/latest/download/JKBose.Helper.Focus.apk",
+  "Version": "0.0"
+}
